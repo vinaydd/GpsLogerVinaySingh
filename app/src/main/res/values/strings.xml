@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GpsLogerdemo</string>
+    <string name="started">started</string>
+    <string name="stopped">stopped</string>
+    <string name="gpsprovider_unavailable">gpsprovider_unavailable</string>
+    <string name="inaccurate_point_discarded">inaccurate_point_discarded</string>
+    <string name="not_enough_distance_traveled">inaccurate_point_discarded</string>
+    <string name="fix_obtained">fix_obtained</string>
+    <string name="started_waiting">started_waiting</string>
+    <string name="gps_stopped">gps_stopped</string>
+    <string name="cancel">cancel</string>
+    <string name="faq_screen_title">faq_screen_title</string>
+</resources>
